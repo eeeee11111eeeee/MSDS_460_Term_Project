@@ -19,6 +19,7 @@ Eve Huang
   - Algorithm
 - Results
   - Travel Suggestions
+  - Problems in the Program
 
 ---
 
@@ -55,7 +56,7 @@ With above information, we can design a simple trip itinerary. Usually the major
 
 Discrete event simulation(Simpy) is used in calculating the optimistic routes suggestions.
 
-### How does it Works
+### How does it Work
 
 - Program will list all places to go and the connections according to the list.
 - Users choose the start point and destination.
@@ -65,7 +66,7 @@ Discrete event simulation(Simpy) is used in calculating the optimistic routes su
 
 ## Result
 
-### Simulations
+### Travel Suggestions
 
 - With proper destination input, program can provide thorough route suggestions including transportation methods, duration and cost.
 
