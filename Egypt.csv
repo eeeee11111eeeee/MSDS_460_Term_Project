@@ -1,0 +1,109 @@
+﻿Place;To;Transportation;Transportation Period(Hour);Price($)
+Red sea diving;Hurgada;Bus;7;10
+Hurgada;Red sea diving;Bus;7;10
+Giza pyramid;Great egpytian museum;Taxi;0,16;2
+Giza pyramid;Mohammed Ali Mosque;Taxi;0,5;5
+Giza pyramid;Saladin Citadel;Taxi;0,5;5
+Giza pyramid;Pyramid of Djoser;Taxi;0,6;6
+Giza pyramid;Khan al-khalili;Taxi;0,5;5
+Giza pyramid;Philae temple;Bus;12;30
+Giza pyramid;Abu Simbel Two Temple;Bus;14;100
+Giza pyramid;Temple of Edfu;Bus;8;20
+Giza pyramid;Temple of Dendera;Bus;7;20
+Giza pyramid;Valley of the Kings;Bus;7;20
+Giza pyramid;Mortuary Temple of Hatshepsut;Bus;7;20
+Giza pyramid;Black Desert;Bus;5;15
+Giza pyramid;Faiyum Oasis;Taxi;1,5;25
+Giza pyramid;Wadi Hitan;Bus;3;30
+Great egpytian museum;Giza pyramid;Taxi;0,16;2
+Great egpytian museum;Mohammed Ali Mosque;Taxi;0,5;5
+Great egpytian museum;Saladin Citadel;Taxi;0,5;5
+Great egpytian museum;Pyramid of Djoser;Taxi;0,6;6
+Great egpytian museum;Khan al-khalili;Taxi;0,5;5
+Great egpytian museum;Philae temple;Bus;12;30
+Great egpytian museum;Abu Simbel Two Temple;Bus;14;100
+Great egpytian museum;Temple of Edfu;Bus;8;20
+Great egpytian museum;Temple of Dendera;Bus;7;20
+Great egpytian museum;Valley of the Kings;Bus;7;20
+Great egpytian museum;Mortuary Temple of Hatshepsut;Bus;7;20
+Great egpytian museum;Black Desert;Bus;5;15
+Great egpytian museum;Faiyum Oasis;Taxi;1,5;25
+Great egpytian museum;Wadi Hitan;Bus;3;30
+Mohammed Ali Mosque;Saladin Citadel;Taxi;0,5;5
+Mohammed Ali Mosque;Pyramid of Djoser;Taxi;0,6;6
+Mohammed Ali Mosque;Khan al-khalili;Taxi;0,5;5
+Mohammed Ali Mosque;Philae temple;Bus;12;30
+Mohammed Ali Mosque;Abu Simbel Two Temple;Bus;14;100
+Mohammed Ali Mosque;Temple of Edfu;Bus;8;20
+Mohammed Ali Mosque;Temple of Dendera;Bus;7;20
+Mohammed Ali Mosque;Valley of the Kings;Bus;7;20
+Mohammed Ali Mosque;Mortuary Temple of Hatshepsut;Bus;7;20
+Mohammed Ali Mosque;Black Desert;Bus;5;15
+Mohammed Ali Mosque;Faiyum Oasis;Taxi;1,5;25
+Mohammed Ali Mosque;Wadi Hitan;Bus;3;30
+Saladin Citadel;Pyramid of Djoser;Taxi;0,6;6
+Saladin Citadel;Khan al-khalili;Taxi;0,5;5
+Saladin Citadel;Philae temple;Bus;12;30
+Saladin Citadel;Abu Simbel Two Temple;Bus;14;100
+Saladin Citadel;Temple of Edfu;Bus;8;20
+Saladin Citadel;Temple of Dendera;Bus;7;20
+Saladin Citadel;Valley of the Kings;Bus;7;20
+Saladin Citadel;Mortuary Temple of Hatshepsut;Bus;7;20
+Saladin Citadel;Black Desert;Bus;5;15
+Saladin Citadel;Faiyum Oasis;Taxi;1,5;25
+Saladin Citadel;Wadi Hitan;Bus;3;30
+Pyramid of Djoser;Khan al-khalili;Taxi;1;30
+Pyramid of Djoser;Philae temple;Bus;11;25
+Pyramid of Djoser;Abu Simbel Two Temple;Bus;15;40
+Pyramid of Djoser;Temple of Edfu;Bus;10;30
+Pyramid of Djoser;Temple of Dendera;Bus;6;15
+Pyramid of Djoser;Valley of the Kings;Bus;8;20
+Pyramid of Djoser;Mortuary Temple of Hatshepsut;Bus;8;20
+Pyramid of Djoser;Black Desert;Bus;6;15
+Pyramid of Djoser;Faiyum Oasis;Bus;2;15
+Pyramid of Djoser;Wadi Hitan;Bus;4;15
+Khan al-khalili;Philae temple;Airplane;2;80
+Khan al-khalili;Abu Simbel Two Temple;Bus;14;40
+Khan al-khalili;Temple of Edfu;Bus;10;30
+Khan al-khalili;Temple of Dendera;Bus;7;15
+Khan al-khalili;Valley of the Kings;Bus;8;15
+Khan al-khalili;Mortuary Temple of Hatshepsut;Bus;8;15
+Khan al-khalili;Black Desert;Bus;5,5;18
+Khan al-khalili;Faiyum Oasis;Bus;4;10
+Khan al-khalili;Wadi Hitan;Bus;4;10
+Philae temple;Abu Simbel Two Temple;Airplane;1;70
+Philae temple;Temple of Edfu;Taxi;2;50
+Philae temple;Temple of Dendera;Bus;5;15
+Philae temple;Valley of the Kings;Bus;4;20
+Philae temple;Mortuary Temple of Hatshepsut;Bus;3,5;18
+Philae temple;Black Desert;Bus;11;30
+Philae temple;Faiyum Oasis;Bus;11;30
+Philae temple;Wadi Hitan;Bus;11;30
+Abu Simbel Two Temple;Temple of Edfu;Bus;5;15
+Abu Simbel Two Temple;Temple of Dendera;Bus;8;20
+Abu Simbel Two Temple;Valley of the Kings;Bus;7;20
+Abu Simbel Two Temple;Mortuary Temple of Hatshepsut;Bus;6;15
+Abu Simbel Two Temple;Black Desert;Bus;14;40
+Abu Simbel Two Temple;Faiyum Oasis;Bus;14;40
+Abu Simbel Two Temple;Wadi Hitan;Bus;14;40
+Temple of Edfu;Temple of Dendera;Bus;4;15
+Temple of Edfu;Valley of the Kings;Bus;2,5;8
+Temple of Edfu;Mortuary Temple of Hatshepsut;Bus;2,5;8
+Temple of Edfu;Black Desert;Bus;10;20
+Temple of Edfu;Faiyum Oasis;Bus;10;20
+Temple of Edfu;Wadi Hitan;Bus;10;20
+Temple of Dendera;Valley of the Kings;Bus;1,5;8
+Temple of Dendera;Mortuary Temple of Hatshepsut;Bus;1,5;8
+Temple of Dendera;Black Desert;Bus;8;10
+Temple of Dendera;Faiyum Oasis;Bus;7;10
+Temple of Dendera;Wadi Hitan;Bus;8;10
+Valley of the Kings;Mortuary Temple of Hatshepsut;Taxi;0,2;5
+Valley of the Kings;Black Desert;Bus;10;20
+Valley of the Kings;Faiyum Oasis;Bus;8;15
+Valley of the Kings;Wadi Hitan;Bus;9;15
+Mortuary Temple of Hatshepsut;Black Desert;Bus;8;15
+Mortuary Temple of Hatshepsut;Faiyum Oasis;Bus;8;15
+Mortuary Temple of Hatshepsut;Wadi Hitan;Bus;8;15
+Black Desert;Faiyum Oasis;Bus;6;10
+Black Desert;Wadi Hitan;Bus;6;10
+Faiyum Oasis;Wadi Hitan;Bus;2;8
